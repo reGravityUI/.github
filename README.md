@@ -1,2 +1,3 @@
-# .github
-Main readme page
+# GravityUI - beta
+
+Hi there! It's GravityUI, reborned, still in beta =)
